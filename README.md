@@ -1,1 +1,1 @@
-# demo-branches
+# GitHub Branch/Pull request demo
